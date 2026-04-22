@@ -3,10 +3,8 @@ console.log(botoes);
 
 for (let i=0; i<= botoes.length; i++){
     
-    botoes{i}.onclick=funcion() {
-        botoes(i).classlist.add("ativo");
+    botoes[i].onclick=function() {
+      botoes(i).classlist.add("ativo");
     }
     console.log(botoes{i});
- 
-
 }
